@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/UNIZAR-30246-2018-BLUE-BOMB/BackEnd
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/UNIZAR-30246-2018-BLUE-BOMB/FrontEnd
